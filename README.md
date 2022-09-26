@@ -1,2 +1,2 @@
 # JogoXadrez
-Jogo de xadrez em C#
+Jogo de xadrez console em C#

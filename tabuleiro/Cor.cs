@@ -1,8 +1,6 @@
+﻿namespace tabuleiro {
+    enum Cor {
 
-namespace tabuleiro
-{
-    public enum Cor
-    {
         Branca,
         Preta,
         Amarela,
